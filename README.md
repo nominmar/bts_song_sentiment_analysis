@@ -1,5 +1,5 @@
-##Introduction:
-I am performing Sentiment Analysis and Classification using song lyrics and $\href{https://en.wikipedia.org/wiki/V_Live}{vlive}$ transcripts of the pop group BTS.
+## Introduction:
+I am performing Sentiment Analysis and Classification using song lyrics and livestream subtitles of the pop group BTS.
 BTS is often acclaimed for their positive messages and personal depth of lyrics.
 
 While VADER sentiment analysis tool is known to perform very well with social media texts, I want to check how well it can decipher the meanings and subtleties of poetry and lyrics.
