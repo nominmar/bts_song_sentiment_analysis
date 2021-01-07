@@ -8,6 +8,6 @@ In addition, I use classification tools to check if song lyrics can be told apar
 
 Please see the MAIN notebook for more information
 
-An outline of the code process is described in the flowchart below.
+An outline of the script is described in the flowchart below.
 
 ![alt text](https://raw.githubusercontent.com/nominmar/bts_text_analysis/main/flowchart.png)
